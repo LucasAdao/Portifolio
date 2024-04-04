@@ -42,8 +42,8 @@
   ],
   "portfolio": [
     {
-      "name": "Consumindo API de Cep C#",
-      "url": "https://github.com/LucasAdao/ApiCep",
+      "name": "Abstraindo um Celular com C#",
+      "url": "https://github.com/LucasAdao/Celulares-tipos",
       "github": true
     },
     {
