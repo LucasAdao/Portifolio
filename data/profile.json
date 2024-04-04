@@ -14,15 +14,26 @@
       {
         "name": "C#",
         "logo": "https://github.com/LucasAdao/Portifolio/blob/main/data/imgs/csharp.png?raw=true"
+      },
+      {
+        "name": "HTML",
+        "logo": "https://github.com/LucasAdao/Portifolio/blob/main/data/imgs/html.png?raw=true"
+      },
+      {
+        "name": "CSS",
+        "logo": "https://github.com/LucasAdao/Portifolio/blob/main/data/imgs/css.png?raw=true"
+      },
+      {
+        "name": "Javascript",
+        "logo": "https://github.com/LucasAdao/Portifolio/blob/main/data/imgs/javascript.png?raw=true"
       }
-      
     ],
     "softSkills": [
       "Empatia",
-      "Persistência",
       "Trabalho em equipe",
       "Proatividade",
-      "Resiliência"
+      "Resiliência",
+      "Boa Comunicação"
     ]
   },
   "languages": [
@@ -45,17 +56,17 @@
     {
       "name": "Atendente MC Donalds",
       "period": "03/2023 - 07/2023",
-      "description": "Uma época de muito aprendizado, principalmente no quêsito softskills, trabalho em equipe, autoresponsabilidade e diversas outras competências!"
+      "description": "Uma Época de Muito Aprendizado, principalmente no quêsito Softskills, Trabalho em Equipe, Autorresponsabilidade e diversas outras competências!"
     },
     {
-      "name": "Software Engineering Lead / DIO",
-      "period": "2021 - 2022",
-      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
+      "name": "Operador Gafor S.A",
+      "period": "11/21 - 02/22",
+      "description": "Carregamento de Caminhões, Operação de Esteiras Industriais e Organização do CD da Empresa M.Dias Branco!"
     },
     {
-      "name": "CEO / Brain Machine",
-      "period": "2016 - 2021",
-      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+      "name": "Promotor de Vendas M.Dias Branco",
+      "period": "2018 - 2020",
+      "description": "Merchandising Criativo, Organização Estratégica de Produtos e FIFO para Controle de Validade dos Produtos!"
     }
   ]
 }
